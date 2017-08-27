@@ -1,0 +1,9 @@
+{
+    "error10": "Data missing to create a roster",
+    "error20": "Rules are missing in data to create a roster.",
+    "error30": "Data file not found",
+    "error40": "Insufficient players in the pools to create a roster",
+    "error50": "Data Source class file not defined",
+    "error60": "Data Source class not found "
+    
+}

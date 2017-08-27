@@ -1,0 +1,15 @@
+{
+    "rules": {"starters":10,"substitutes":5,"scoreLimit":100,"salaryCap":175},
+    "playerPool":{
+        "player40":{"agility":40,"speed":50,"strength":20},
+        "player41":{"agility":30,"speed":20,"strength":20},
+        "player42":{"agility":10,"speed":10,"strength":10},
+        "player43":{"agility":20,"speed":20,"strength":20},
+        "player44":{"agility":30,"speed":30,"strength":30},
+        "player45":{"agility":40,"speed":40,"strength":40},
+        "player46":{"agility":11,"speed":11,"strength":11},
+        "player47":{"agility":12,"speed":12,"strength":12},
+        "player48":{"agility":13,"speed":13,"strength":13},
+        "player49":{"agility":14,"speed":14,"strength":14}                 
+    }
+}
